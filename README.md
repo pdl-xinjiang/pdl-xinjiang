@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @pdl-xinjiang
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Xinjiang Shao at Peapod Digital Labs
+- 💞️ I’m looking to collaborate on eCommerence projects and dev tools for front-end or back-end
+- 📫 Send me a message via xinjiang.shao@peapoddigitallabs.com if you are interested
 
-<!---
-pdl-xinjiang/pdl-xinjiang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
